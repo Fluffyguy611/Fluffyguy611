@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adrian
-- 👀 I’m interested in backend technoligies
+- 👀 I’m interested in backend technologies
 - 🌱 I’m currently learning Django
 - 📫 How to reach me:
 - adrian.nowicki611@gmail.com
