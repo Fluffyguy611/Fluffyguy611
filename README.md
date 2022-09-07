@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A junior developer currently working with Python and C</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me @:</h3>
 <h4 align="left">adrian.nowicki611@gmail.com</h4>
 <p align="left">
 </p>
